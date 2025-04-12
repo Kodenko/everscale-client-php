@@ -36,7 +36,7 @@
     "php": ">=7.4",
     "ext-json": "*",
     "ext-ton_client": ">=1.38.0",
-    "psr/log": "^1.1"
+    "psr/log": "^3.2"
   },
   "scripts": {
     "test": "phpunit",
