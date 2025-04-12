@@ -1,5 +1,5 @@
 {
-  "name": "radianceteam/ton-client-php",
+  "name": "kodenko/ton-client-php",
   "description": "TON Client Wrapper for PHP",
   "license": "Apache-2.0",
   "authors": [
